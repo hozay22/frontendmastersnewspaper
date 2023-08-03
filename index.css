@@ -1,0 +1,19 @@
+.brand-header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.nav-links {
+    border: 3px solid black; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    list-style: none;
+    padding: 20px;
+    display: grid;
+    grid-template-areas: "site-section site-section site-section site-section site-section";
+}
+
+.section-link {
+    color: black;
+}
